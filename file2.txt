@@ -3,3 +3,4 @@ add one line
 add second line
 master add second line
 master add third line
+add another line
